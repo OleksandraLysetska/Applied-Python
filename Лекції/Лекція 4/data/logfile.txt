@@ -1,0 +1,12 @@
+1. Запис: Матвієнко Денис Валентинович АБ01234569 09.10.2004 +380 (95) 012 345o  
+ у файлі data\Stud1.txt
+Помилка: argument of type 'NoneType' is not iterable
+
+2. Запис: Марина Степанівна АБ12345681 27.12.2003 +380 (96) 123 4561  
+ у файлі data\Stud1.txt
+Помилка: argument of type 'NoneType' is not iterable
+
+3. Запис: Лавренюк Тарас Богданович 23456782 15.07.2002 +380 (97) 234 5672  
+ у файлі data\Stud1.txt
+Помилка: argument of type 'NoneType' is not iterable
+
