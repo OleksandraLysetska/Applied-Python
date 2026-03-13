@@ -68,7 +68,10 @@ def extract_from_file(filename):
 
 if __name__ == '__main__':
     #file = input('Enter file name')
-    file = r"data\Stud1.txt"
+    file = r"C:\!МОЄ\Прикладна\Прикладне програмування\Applied-Python\Лекції\Лекція 4\data\Stud2.txt"
     students_data = extract_from_file(file)
     for k, v in students_data.items():
         print(k, ' '.join(v), sep=': ')
+
+
+        
