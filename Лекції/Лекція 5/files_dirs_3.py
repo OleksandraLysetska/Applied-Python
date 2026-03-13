@@ -64,7 +64,7 @@ def removedir(dir):
                 print('Пропуск видалення файлу', name, e, sep='\n')
         else:
             removedir(fullname)
-        os.rmdir(dir)  # вкінці видаляємо порожній каталог
+    os.rmdir(dir)  # вкінці видаляємо порожній каталог
 
 
 def archivesubdirs(dir):
